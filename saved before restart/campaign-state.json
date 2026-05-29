@@ -1,0 +1,9 @@
+{
+  "mode": "idle",
+  "last_snowflake_scan": null,
+  "scan_lookback_days": null,
+  "candidates": [],
+  "active_runs": [],
+  "pending_notifications": [],
+  "notes": "Initialized 2026-05-27. Setup complete. Awaiting start signal from Evan to begin 90-day backfill campaign."
+}
